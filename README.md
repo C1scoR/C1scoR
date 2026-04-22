@@ -1,9 +1,9 @@
-## Hi there 👋
-
+# Flex
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://leetcard.jacoblin.cool/BolshoiPencil?theme=dark&font=Baloo%202" alt="LeetCode Stats" style="height: 150px; width: auto;"/>
 </p>
 
+I'm currently learning CS algorithms and software archiecture to become relevant candidate on job market. And remember, one day, i'll we one of the best on Earth (of course if AI will not take this job :))
 <!--
 **C1scoR/C1scoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
