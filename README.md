@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-https://leetcard.jacoblin.cool/BolshoiPencil?theme=dark&font=Baloo%202
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://leetcard.jacoblin.cool/BolshoiPencil?theme=dark&font=Baloo%202" alt="LeetCode Stats" style="height: 150px; width: auto;"/>
+</p>
 
 <!--
 **C1scoR/C1scoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
