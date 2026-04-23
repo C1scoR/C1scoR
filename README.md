@@ -1,6 +1,6 @@
 # Flex
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://leetcard.jacoblin.cool/BolshoiPencil?theme=dark&font=Baloo%202" alt="LeetCode Stats" style="height: 150px; width: auto;"/>
+  <img src="https://leetcard.jacoblin.cool/C1scoR?theme=dark&font=Baloo%202" alt="LeetCode Stats" style="height: 150px; width: auto;"/>
 </p>
 
 I'm currently learning CS algorithms and software archiecture to become relevant candidate on job market. And remember, one day, i'll we one of the best on Earth (of course if AI will not take this job :))
